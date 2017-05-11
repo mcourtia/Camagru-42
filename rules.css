@@ -1,0 +1,110 @@
+.button {
+	background:#58ACFA;
+	border-radius:10px;
+	font-size:20;
+	font-family:comic sans ms;
+	font-weight:bold;
+}
+body {
+	background-image:url(img/back.jpg);
+}
+div {
+	display:inline-block;
+}
+table {
+	text-align:center;
+}
+div#montgal {
+	width:400px;
+	text-align:center;
+}
+div#mini {
+	list-style-type:none;
+}
+div#mini a img {
+	float:left;
+	margin:2px 1px;
+	border: 1px solid #58ACFA;
+	height:60px;width:80px;
+}
+div#norm {
+	clear:both;
+	margin: 0 auto;
+}
+div#norm img {
+	width:400px;
+	height:300;
+	position:relative;
+	bottom:444px;
+	right:3px;
+}
+#video {
+	padding-top:10px;
+}
+#sidegal {
+	max-height:650px;
+	display:block;
+	overflow:auto;
+	border:3px solid black;
+	border-radius:5px;
+}
+#top {
+	width:100%;
+	border-radius:10px;
+	height:120px;
+	min-width:500px;
+}
+#ic {
+	width:100px;
+	height:100px;
+	margin:8px;
+}
+#tit {
+	width:360px;
+	height:100px;
+	border-radius:10px;
+	text-align:center;
+	vertical-align:top;
+	margin:8px;
+}
+#img {
+	height:100%;
+	width:100%;
+}
+#foot {
+	width:100%;
+	height:50px;
+	min-width:500px;
+	border:2px solid black;
+	border-radius:10px;
+}
+#cop {
+	font-size:14px;
+	margin:15px;
+}
+#logo {
+	width:70px;
+	height:45px;
+	float:right;
+	margin:3px 15px 0 0;
+}
+#emptytd {
+	width:60px;
+}
+#sizeside {
+	width:250px;
+}
+#gal {
+	width:1000px;
+}
+#pictgal {
+	width:300px;
+	margin:5px 5px;
+	padding:2px;
+	border: 3px solid #58ACFA;
+	border-radius:5px;
+}
+#com {
+	max-width:400px;
+	text-align:left;
+}
